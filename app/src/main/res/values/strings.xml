@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="revoke">Revoke</string>
+    <string name="log_out">Log Out</string>
+    <string name="facebook_app_id">811751812310286</string>
+    <string name="loginMode">loginMode</string>
+    <string name="noSesion">No se pudo iniciar sesión.</string>
+    <string name="title_activity_firebase">FirebaseActivity</string>
+</resources>
